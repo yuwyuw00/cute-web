@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    text-shadow: 0 1px 4px rgba(255, 46, 126, 0.5);
+}
+
+h1 {
+    color: #ff69b4;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+  
+}
+h6{
+    color: #8b2659;
+    text-align: center;
+}
+.message-card {
+    height: 30vh;
+    width: 80%;
+    border: 2px solid #ff69b4;
+    margin: 25px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    background: #fff0f6;
+    box-shadow: 0 4px 16px rgb(255, 149, 202);
+    padding: 15%;
+
+}
+script {
+    display: block;
+    margin: 20px auto;
+}
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ff69b4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #ff85c1;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+}
+p.hidden {
+    display: none;
+    
+}
+p {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+.gif{
+    width: 110%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    opacity: 25%;
+}
