@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const surpriseMessage = document.getElementById('surpriseMessage');
     const messages = [
         "In this three years of us being together, we get so many disagreements, pagtatampo, pagkakamali, and misunderstandings. But through all of that, we still let each other lower our prides and forgive each other and always to remind us to choose one another even when it's hard.",
-        "Napaka-grateful ako na pinakilala ka sakin ni Lord, na pinagtagpo rayo ni Lord. At sa bawat araw na lumililipas mas napapanatag ako na ikaw ang aking makakasama sa buhay ko.",
+        "Napaka-grateful ko na pinakilala ka sakin ni Lord, na pinagtagpo rayo ni Lord. At sa bawat araw na lumililipas mas napapanatag ako na ikaw ang aking makakasama sa buhay ko.",
         "Your love is kind. Your love is respectful. Your love is selfless. Your love is beautiful.",
         "I love you so much Gabiii! My one and only asawa.",
         "Thank you for everything! Thank you so much for everything!",
